@@ -29,7 +29,7 @@ I am a developer focusing on building tools including iOS apps, web applications
 
 ## Contact
 
-- Email: [mailto:hello@jackplus.xyz]
+- Email: [hello@jackplus.xyz](mailto:hello@jackplus.xyz)
 - My blog: [jackplus.xyz](https://jackplus.xyz/)
 
 ## Support
