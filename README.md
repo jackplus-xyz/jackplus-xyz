@@ -39,4 +39,4 @@ I like making things that I wish exists. You can support my works by:
 - Trying my projects
 - Starring my projects
 - Leaving a message
-- [Sponsoring me](https://github.com/sponsors/jackplus-xyz).
+- [Sponsoring me](https://github.com/sponsors/jackplus-xyz)
