@@ -10,6 +10,7 @@ I am a developer focusing on building tools including iOS apps, web applications
 
 ### Neovim
 
+- [player-one.nvim](https://github.com/jackplus-xyz/player-one.nvim): A plugin that brings 8-bit sound effects to Neovim.
 - [scroll-it.nvim](https://github.com/jackplus-xyz/scroll-it.nvim): A Neovim plugin that displays long documents continuously across multiple windows.
 - [binary.nvim](https://github.com/jackplus-xyz/binary.nvim): A minmal Neovim colorscheme using only two colors for a plain text editor experience.
 - [monaspace.nvim](https://github.com/jackplus-xyz/monaspace.nvim): A Neovim plugin that allows users to try mix and match Monaspace fonts.
